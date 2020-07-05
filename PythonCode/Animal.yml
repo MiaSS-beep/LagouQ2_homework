@@ -1,0 +1,11 @@
+mycat:
+  name: "white_cat"
+  color: "white"
+  age: 2
+  gender: "male"
+
+mydog:
+  name: "black_dog"
+  color: "black"
+  age: 3
+  gender: "male"
